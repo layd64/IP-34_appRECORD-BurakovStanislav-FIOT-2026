@@ -166,8 +166,10 @@ code {
   border: 1px solid var(--paper-border);
   border-radius: 18px;
   background: rgba(255, 255, 255, 0.03);
-  max-height: none;
-  overflow: hidden;
+  max-height: calc(100vh - 28px);
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: var(--paper-border) transparent;
 }
 
 .toc-title {
@@ -391,5 +393,6 @@ code {
     position: relative;
     top: 0;
     max-height: none;
+    overflow-y: visible;
   }
 }
