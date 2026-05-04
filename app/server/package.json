@@ -1,0 +1,36 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:pm2": "pm2 start index.js --name appWEB-backend --watch",
+    "stop:pm2": "pm2 stop appWEB-backend",
+    "logs:pm2": "pm2 logs appWEB-backend",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.1",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.3.2",
+    "express-session": "^1.19.0",
+    "express-validator": "^7.3.2",
+    "jsonwebtoken": "^9.0.3",
+    "morgan": "^1.10.1",
+    "multer": "^2.1.1",
+    "mysql2": "^3.19.1",
+    "nodemailer": "^8.0.5",
+    "passport": "^0.7.0",
+    "passport-google-oauth20": "^2.0.0",
+    "pm2": "^7.0.1",
+    "sequelize": "^6.37.8",
+    "winston": "^3.19.0"
+  }
+}
