@@ -16,7 +16,7 @@
 
 *Посилання на репозиторій власного WEB-застосунку:* [https://github.com/layd64/IP-34_appWEB-Backend-Burakov-Stanislav-FIOT-2026](https://github.com/layd64/IP-34_appWEB-Backend-Burakov-Stanislav-FIOT-2026)
 
-*Посилання на живу сторінку власного WEB-застосунку:* [https://ip-34-appweb-backend-burakov-stanislav.onrender.com](https://ip-34-appweb-backend-burakov-stanislav.onrender.com) *(замініть на ваше посилання на Render)*
+*Посилання на живу сторінку власного WEB-застосунку:* [https://ip-34-appweb-backend-burakov-stanislav.onrender.com](https://ip-34-appweb-backend-burakov-stanislav.onrender.com)
 
 *Посилання на репозиторій звітного HTML-документа:* [github.com/layd64/IP-34_appRECORD-BurakovStanislav-FIOT-2026](https://github.com/layd64/IP-34_appRECORD-BurakovStanislav-FIOT-2026)
 
